@@ -1,0 +1,7 @@
+git clone : tải file về
+
+git add . : thêm file 
+git commit -am
+git push:  đẩy code lên
+
+git pull : update code mới
